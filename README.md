@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @danieloliveira63
-- 👀 I’m interested in alura
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Boas vindas ao meu perfil 💙💙
+Meu nome é daniel oliveira
 
-<!---
-danieloliveira63/danieloliveira63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - Estou estudando na Alura -
+ - Estou me desenvolvendo na linguagem JavaScript
+ - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ - ![](https://media1.tenor.com/m/uG0AZOy1b24AAAAd/nutria-otter.gif)
